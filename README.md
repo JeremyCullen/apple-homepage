@@ -1,0 +1,1 @@
+Objective of project is to recreate design and layout of the apple homepage
